@@ -1,6 +1,6 @@
 # Deep Learning based Microscopy Particle Segmentation
 <p align="center">
-  <img src="https://github.com/akhilchibber/Microscopy-Particle-Segmentation/blob/main/Microscopy-Particle-Segmentation.png?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Microscopy-Particle-Segmentation/blob/main/Microscopy_Particle_Segmentation.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Dataset
